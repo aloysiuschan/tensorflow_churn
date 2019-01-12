@@ -1,5 +1,5 @@
 # tensorflow_churn
-The Jupyter notebook contains code to predict whether telco customers churn or not. Since customers either churn or do not churn, the classification problem is a binary one. Features used to predict churn include customer account information (e.g. monthly charges) and demographic information (e.g. gender).
+The Jupyter notebook contains code to predict whether telco customers churn or not. Since customers either cease or continue their relationship with the telco company, the classification problem is a binary one. Features used to predict churn include customer account information (e.g. monthly charges) and demographic information (e.g. gender).
 
 The Jupyter notebook is split into three parts.
 
